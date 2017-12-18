@@ -1,2 +1,0 @@
-# MyStats
-Created with CodeSandbox
